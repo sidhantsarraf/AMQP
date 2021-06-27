@@ -4,12 +4,14 @@ python receive.py
 
 Tutorial 2
 Before doing this change queue name in new task
+
 python new_task.py "First....."
 python new_task.py "Second....."
 python new_task.py "Third....."
 python new_task.py "Fourth....."
 python new_task.py "Fifth....."
 Before doing this change queue name in worker
+
 python worker.py
 python worker.py
 
